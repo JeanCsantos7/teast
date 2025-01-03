@@ -15,9 +15,5 @@
             "dest": "/server.ts"
         }
     ],
-    "functions": {
-        "api/**/*.js": {
-            "maxDuration": 50
-        }
-    }
+   
 }
